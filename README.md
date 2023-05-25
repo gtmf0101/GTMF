@@ -1,5 +1,5 @@
 # GTMF
-The GTMF (Ground Truth Maturity Framework) aims to assist teams in improving the quality of their ground truth (GT) data. To do this, it provides a range of methodologies, metrics, and tools that allow users to measure and understand their GT data more effectively. Please find more details in this [blog post](https://research.facebook.com/blog/2022/8/-introducing-the-ground-truth-maturity-framework-for-assessing-and-improving-ground-truth-data-quality/).
+The GTMF (Ground Truth Maturity Framework) aims to assist teams in improving the quality of their ground truth (GT) data. To do this, it provides a range of methodologies, metrics, and tools that allow users to measure and understand their GT data more effectively.
 
 In this repository, we introduce the GTMF library, a toolkit we developed for the measurement and improvement of ground truth data. The library covers multiple dimensions including representativity, accuracy, reliability, metric variance, and efficiency. It provides APIs for general metrics in each dimension and allows for customized parameters and flexible measurement granularity. It also allows teams to build their own workflows wrapping up the GTMF metric APIs.
 
